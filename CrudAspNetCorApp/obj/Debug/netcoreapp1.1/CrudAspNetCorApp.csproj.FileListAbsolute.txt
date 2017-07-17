@@ -1,0 +1,9 @@
+D:\Javra Research\CrudAspNetCorApp\CrudAspNetCorApp\bin\Debug\netcoreapp1.1\CrudAspNetCorApp.deps.json
+D:\Javra Research\CrudAspNetCorApp\CrudAspNetCorApp\bin\Debug\netcoreapp1.1\CrudAspNetCorApp.runtimeconfig.json
+D:\Javra Research\CrudAspNetCorApp\CrudAspNetCorApp\bin\Debug\netcoreapp1.1\CrudAspNetCorApp.runtimeconfig.dev.json
+D:\Javra Research\CrudAspNetCorApp\CrudAspNetCorApp\bin\Debug\netcoreapp1.1\CrudAspNetCorApp.dll
+D:\Javra Research\CrudAspNetCorApp\CrudAspNetCorApp\bin\Debug\netcoreapp1.1\CrudAspNetCorApp.pdb
+D:\Javra Research\CrudAspNetCorApp\CrudAspNetCorApp\obj\Debug\netcoreapp1.1\CrudAspNetCorApp.AssemblyInfo.cs
+D:\Javra Research\CrudAspNetCorApp\CrudAspNetCorApp\obj\Debug\netcoreapp1.1\CrudAspNetCorApp.dll
+D:\Javra Research\CrudAspNetCorApp\CrudAspNetCorApp\obj\Debug\netcoreapp1.1\CrudAspNetCorApp.pdb
+D:\Javra Research\CrudAspNetCorApp\CrudAspNetCorApp\obj\Debug\netcoreapp1.1\CrudAspNetCorApp.csprojResolveAssemblyReference.cache
